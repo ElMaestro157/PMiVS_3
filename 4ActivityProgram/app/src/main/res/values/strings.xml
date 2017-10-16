@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">4ActivityProgram</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="button4">Button4</string>
+    <string name="button5">Button5</string>
+    <string name="button6">Button6</string>
+    <string name="button7">Button7</string>
+    <string name="left">Left 50%</string>
+    <string name="right">Right 50%</string>
+    <string name="center_left">Center_Left</string>
+    <string name="center">Center</string>
+    <string name="center_right">Center_Right</string>
+    <string name="bottom">Bottom</string>
+    <string name="newButtong">New Button</string>
+</resources>
